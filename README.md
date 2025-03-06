@@ -1,0 +1,3 @@
+# CLG
+
+a changelog generator
