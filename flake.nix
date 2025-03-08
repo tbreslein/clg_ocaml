@@ -40,6 +40,7 @@
 
             buildInputs = [
               ocamlPackages.yaml
+              ocamlPackages.clap
             ];
 
             strictDeps = true;

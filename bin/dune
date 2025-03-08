@@ -1,4 +1,4 @@
 (executable
  (public_name clg)
  (name main)
- (libraries clg yaml))
+ (libraries clg yaml clap))
