@@ -13,6 +13,7 @@ depends: [
   "dune" {>= "3.17"}
   "ocaml"
   "yaml"
+  "clap"
   "odoc" {with-doc}
 ]
 build: [
