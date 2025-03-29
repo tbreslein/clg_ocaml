@@ -1,2 +1,4 @@
 (library
- (name clg))
+ (name clg)
+ (modules clg_yaml)
+ (libraries yaml))
